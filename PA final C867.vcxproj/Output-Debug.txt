@@ -1,0 +1,19 @@
+﻿'Performance Assessment C867.exe' (Win32): Loaded 'C:\Users\rnjay\source\repos\Performance Assessment C867\Debug\Performance Assessment C867.exe'. Symbols loaded.
+'Performance Assessment C867.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Performance Assessment C867.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Performance Assessment C867.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Performance Assessment C867.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Performance Assessment C867.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Performance Assessment C867.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x6f20 has exited with code 0 (0x0).
+'Performance Assessment C867.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Performance Assessment C867.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Performance Assessment C867.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'Performance Assessment C867.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'Performance Assessment C867.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'Performance Assessment C867.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'Performance Assessment C867.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The thread 0x663c has exited with code 0 (0x0).
+The thread 0x306c has exited with code 0 (0x0).
+The thread 0x7200 has exited with code 0 (0x0).
+The program '[21136] Performance Assessment C867.exe' has exited with code 0 (0x0).

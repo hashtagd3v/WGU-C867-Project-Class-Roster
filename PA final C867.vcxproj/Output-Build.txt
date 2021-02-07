@@ -1,0 +1,11 @@
+﻿1>------ Rebuild All started: Project: Performance Assessment C867, Configuration: Debug Win32 ------
+1>networkStudent.cpp
+1>roster.cpp
+1>securityStudent.cpp
+1>softwareStudent.cpp
+1>student.cpp
+1>Generating Code...
+1>C:\Users\rnjay\source\repos\Performance Assessment C867\securityStudent.cpp(1,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+1>Performance Assessment C867.vcxproj -> C:\Users\rnjay\source\repos\Performance Assessment C867\Debug\Performance Assessment C867.exe
+1>Done building project "Performance Assessment C867.vcxproj".
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
